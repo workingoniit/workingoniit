@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h3 align="left">Language</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!-- 세 번째 줄: Java, Python -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -12,7 +12,6 @@
     </a>
 </p>
 
-<h3 align="left">Database</h3>
 <p align="left">
     <!-- 첫 번째 줄: MySQL, MongoDB -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -23,7 +22,6 @@
     </a>   
 </p>
 
-<h3 align="left">Framework</h3>
 <p align="left">
     <!-- 두 번째 줄: Spring Framework -->
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
