@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+<!-- ### Hi there 👋 -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!-- 세 번째 줄: Java, Python -->
